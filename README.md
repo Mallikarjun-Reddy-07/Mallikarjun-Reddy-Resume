@@ -24,6 +24,7 @@ Java Full Stack Developer with hands-on experience building secure and scalable 
 ## Featured Projects
 
 - **eBanking System** — Spring Boot, MySQL, JWT
+- **Employee Management System** — Spring Boot, Spring Security, JWT
 - **AI Trip Planner** — Streamlit, SerpAPI, Firebase
 - **Python Code Explainer** — Python Backend, Frontend
 - **Weather Application** — HTML, CSS, JavaScript, OpenWeather API
