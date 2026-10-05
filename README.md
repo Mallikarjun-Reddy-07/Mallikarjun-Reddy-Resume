@@ -4,7 +4,7 @@ Java Full Stack Developer with hands-on experience building secure and scalable 
 
 ## Resume
 
-📄 **[View / Download Resume](./Mallikarjun_Reddy_Resume.pdf)**
+📄 **[View Resume](./RESUME.md)**
 
 ## Technical Skills
 
