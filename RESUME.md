@@ -1,4 +1,4 @@
-# MALLIKARJUN REDDY N B
+# MALLIKARJUN REDDY
 
 **Bangalore, India**  
 **Email:** reddymallikarjunreddy87@gmail.com  
@@ -7,7 +7,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Java Full Stack Developer with hands-on internship and project experience in Java, Spring Boot, REST APIs, JWT Authentication, Hibernate, JDBC, MySQL, HTML, CSS, and JavaScript. Experienced in building secure backend services, authentication flows, validation, exception handling, database integration, and layered application architecture. Strong focus on scalable API development, application security, debugging, and clean code.
+Java Full Stack Developer with hands-on internship and project experience in Java, Spring Boot, REST APIs, JWT authentication, Hibernate, JDBC, MySQL, HTML, CSS, and JavaScript. Experienced in building secure backend services, authentication flows, validation, exception handling, database integration, and layered application architecture. Strong focus on scalable API development, application security, debugging, and clean code.
 
 ## TECHNICAL SKILLS
 
@@ -45,6 +45,14 @@ Java Full Stack Developer with hands-on internship and project experience in Jav
 - Built a secure banking backend supporting account creation, login, balance inquiry, and fund transfers.
 - Implemented JWT authentication and authorization, REST APIs, transaction validation, and data consistency checks.
 - Handled insufficient-balance and invalid-transaction scenarios using a layered Controller-Service-Repository architecture.
+
+### Employee Management System — Spring Boot, Spring Security, JWT
+
+- Developed a secure Employee Management System with CRUD operations.
+- Implemented JWT-based authentication and Role-Based Authorization.
+- Designed REST APIs for employee registration, login, profile management, and administration.
+- Integrated Swagger for API documentation.
+- Applied layered architecture following industry best practices.
 
 ### AI Trip Planner — Streamlit, SerpAPI, Firebase
 
